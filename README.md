@@ -14,7 +14,7 @@ The possibilities are endless, and the designs will always be unique! 🌈✨
 
 ## Contact  
 Got questions or suggestions? I’d love to hear from you! 💬 Feel free to reach out:  
-📧 Email: your-email@example.com  
+📧 Email: sanket29136@gmail.com  
 Let's chat about coding, art, or anything else! 😄
 
 ## Thanks  
