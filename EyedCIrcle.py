@@ -1,0 +1,16 @@
+from turtle import *
+setposition(-130, 100)
+bgcolor("black")
+color("orange")
+speed(0)
+pensize(2)
+for i in range(90):
+    fd(200)
+    lt(32)
+    circle(50, -90)
+    rt(120)
+    fd(250)
+    circle(350, -70)
+    lt(60)
+    hideturtle()
+done()
